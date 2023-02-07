@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Anton Arizal!
-Currently working in Djavasoft, (@ExrushUpdater)[https://github.com/ExrushUpdater] dan SMK NU Tulungagung, but I love learn new thing in programming such as Javascript, PHP, Python.  
+Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush.com) and [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
 
 ### Tools:
 <p>
