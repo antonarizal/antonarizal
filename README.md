@@ -9,6 +9,22 @@ Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
+### Languages And Tools
+
+![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
+![Tailwind Css](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![Boostrap](https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg)
+![Yii Framework](https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg)
+![React Js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
+![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
+![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
+![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+![Visual Studio Code](https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
@@ -25,6 +41,17 @@ Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush
     <img src="https://github-readme-stats.vercel.app/api?username=antonarizal&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonarizal&layout=compact" height=180 />
 </p>
+
+
+<!--   GitHub stats graph -->
+
+### 📈 GitHub Activity Graph:
+
+[![Zulfikar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonarizal&bg_color=0f0008&color=ffffff&line=c80eb9&point=28ccc1&area=true&hide_border=true)](https://github.com/antonarizal/github-readme-activity-graph)
+
+| .                                                                                                                                        | .                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| <a href="http://www.github.com/antonarizal"><img src="https://github-readme-stats.vercel.app/api?username=antonarizal&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="antonarizal's GitHub stats" /></a> | [![GitHub Streak](https://streak-stats.demolab.com?user=antonarizal&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=DD0080&currStreakNum=DD10C2&currStreakLabel=34DD4A&ring=DC0EDD&dates=DDABAB&stroke=55DDD4)](https://git.io/streak-stats) |
 
 ### Let's connect!
 <p>
