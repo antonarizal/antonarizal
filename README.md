@@ -1,6 +1,8 @@
 # Hi there 👋 , I'm Anton Arizal!
 Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush.com) and [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Anton+Arizal;+Welcome+to+My+Profile!;Im+Software+Developer+and+Teacher+of+SMK+NU+Tulungagung)](https://git.io/typing-svg)
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
