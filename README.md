@@ -13,18 +13,6 @@ Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush
 
 ### Languages And Tools
 
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
-![Tailwind Css](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-![Boostrap](https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg)
-![React Js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
-![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
-![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
-![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-![Visual Studio Code](https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg)
 
 ### Stats:
 <details>
