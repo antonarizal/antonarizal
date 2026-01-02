@@ -26,21 +26,13 @@ Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=antonarizal&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonarizal&layout=compact" height=180 />
-</p>
+
 
 
 <!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
 
-[![Zulfikar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonarizal&bg_color=0f0008&color=ffffff&line=c80eb9&point=28ccc1&area=true&hide_border=true)](https://github.com/antonarizal/github-readme-activity-graph)
-
-| .                                                                                                                                        | .                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| <a href="http://www.github.com/antonarizal"><img src="https://github-readme-stats.vercel.app/api?username=antonarizal&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="antonarizal's GitHub stats" /></a> | [![GitHub Streak](https://streak-stats.demolab.com?user=antonarizal&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=DD0080&currStreakNum=DD10C2&currStreakLabel=34DD4A&ring=DC0EDD&dates=DDABAB&stroke=55DDD4)](https://git.io/streak-stats) |
 
 ### Let's connect!
 <p>
